@@ -93,7 +93,7 @@ const drawDesktopValues = () => {
   valuesContainer.appendChild(table);
 };
 // .matches sprawdza czy warunek w zmiennej desktopViewport.matchMedia(min-width: 500px) jest prawdziwy, jeżeli tak zwróci true i zostanie przekazane do funkcji drawValues. Zostanie sprawdzony warunek isDesktop = true i odpalona zostanie odpowiednia funkcja
-// drawValues(desktopViewport.matches);
+drawValues(desktopViewport.matches);
 
 //aktywne sprawdzanie czy szerokość ekranu jest większa niż 500px, do isDesktop.matches zostanie przekazane true or false i wykonana funkcja drawValues z odpowiednim warunkiem. Render wykonuje się tylko przy przekroczeniu punktu krytycznego
 desktopViewport.addListener(isDesktop => {
