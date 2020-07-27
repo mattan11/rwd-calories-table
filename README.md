@@ -1,5 +1,5 @@
 # RWD calories table
-This project allows to check how many calories contains specific product. 
+This project allows to check how many calories contains specific product. Table rendering depends on screen resolution.
 
 
 ## Installing rwd calories table
@@ -11,3 +11,5 @@ $ npm install
 
 ## Github Pages
 This project is located also at github pages at https://mattan11.github.io/rwd-calories-table/
+
+## Technologies used
