@@ -12,4 +12,7 @@ $ npm install
 ## Github Pages
 This project is located also at github pages at https://mattan11.github.io/rwd-calories-table/
 
-## Technologies used
+## Technologies used by project
+### HTML
+### JavaScript
+### Webpack
