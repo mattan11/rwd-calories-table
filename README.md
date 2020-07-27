@@ -13,7 +13,13 @@ $ npm install
 This project is located also at github pages at https://mattan11.github.io/rwd-calories-table/
 
 ## Technologies used by project
-### HTML
-### SCSS
-### JavaScript
-### Webpack
+HTML
+
+SCSS
+
+JavaScript
+
+Webpack
+
+## What have I learned
+This project helped me how to efficently change view rendering by 
