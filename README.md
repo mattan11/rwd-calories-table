@@ -14,5 +14,6 @@ This project is located also at github pages at https://mattan11.github.io/rwd-c
 
 ## Technologies used by project
 ### HTML
+### SCSS
 ### JavaScript
 ### Webpack
