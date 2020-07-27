@@ -16,10 +16,11 @@ This project is located also at github pages at https://mattan11.github.io/rwd-c
 HTML
 
 SCSS
+-media queries
 
 JavaScript
 
 Webpack
 
 ## What have I learned
-This project helped me how to efficently change view rendering by 
+This project helps me how to efficently build layouts for different screen resolution.
